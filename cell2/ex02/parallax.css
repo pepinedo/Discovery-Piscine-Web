@@ -1,0 +1,17 @@
+.parallax
+{
+	background-image: url("https://img.freepik.com/fotos-premium/fondo-colorido-fondo-azul-rosa_605905-749.jpg");
+	min-height: 1200px;
+	min-width: 1350px;
+
+	background-attachment: fixed;
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+.imagen1
+{
+	width: 1350px;
+	height: 900px;
+}
