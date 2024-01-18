@@ -1,0 +1,12 @@
+.boton
+{
+	width: 200px;
+	height: 50px;
+	background-color: rgb(182, 185, 169);
+	border-radius: 10px;
+}
+
+body
+{
+	background-color: rgb(152, 115, 75);
+}

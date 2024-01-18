@@ -1,0 +1,21 @@
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	margin: 0;
+  }
+
+  .boton-redondo {
+	height: 200px;
+	width: 200px;
+	border: none;
+	border-radius: 50%;
+	background-color: red;
+	cursor: pointer;
+  }
+
+  .boton-redondo:hover {
+	transform: scale(1.1);
+	
+  }
